@@ -1,1 +1,1 @@
-# bioinformatics-book
+# Bioinformatics for the Benchtop Researcher
